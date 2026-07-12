@@ -1,6 +1,5 @@
 {
   "blacklist": [
-    {"ip": "5.199.138.96", "port": "40010"},
-    {"ip": "samp.reunion-gaming.xyz", "port": "40010"}
+    {"ip": "3", "port": "3"}
   ]
 }
